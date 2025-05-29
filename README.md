@@ -1,5 +1,5 @@
-### Hi there 👋
-# 👋 Hi there! I'm [Your Name]
+
+# 👋 Hi there! I'm  Subhalaxmi
 
 🎨 Frontend Developer | 💻 JavaScript Enthusiast | ⚛️ React Lover
 
