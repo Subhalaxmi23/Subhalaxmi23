@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with a strong interest
 
 ## 📫 Let's Connect!
 - LinkedIn: https://www.linkedin.com/in/subhalaxmi-sahoo-409885264/
-- Portfolio: [Your Portfolio Link]
+- Portfolio:https://subha-portfolio-subhalaxmis-projects.vercel.app/
 - Email: subhalaxmisahoo2301@gmail.com
 
 Thanks for stopping by! Feel free to check out my repositories and leave a ⭐ if something catches your eye!
